@@ -1,0 +1,9 @@
+build
+build/*
+.vscode/*
+donotstage/*
+donotstage
+fonts/
+
+CMakeLists.txt
+pico_sdk_import.cmake
